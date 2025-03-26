@@ -20,7 +20,7 @@ sections:
       Morse code back into readable text. It interprets sequences of dots and
       dashes separated by spaces for letters and slashes (/) for words. 
     actions:
-      - label: Get started
+      - label: ''
         altText: ''
         url: /
         showIcon: false
