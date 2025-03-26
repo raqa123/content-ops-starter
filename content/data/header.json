@@ -15,7 +15,7 @@
         {
             "label": "Web Surf Tools",
             "altText": "Web Surf Tools",
-            "url": "/blog",
+            "url": "https://websurftools.com/tools/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
