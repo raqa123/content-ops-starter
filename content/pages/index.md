@@ -689,11 +689,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "*Just type letters, numbers and punctuation into the top box*\_and the [`Morse code`](https://websurftools.com/tools/morse-code-generator/) will appear in the bottom box with a \"#\" if the character cannot be translated.\n\n"
     media:
       fields:
         - name: name
