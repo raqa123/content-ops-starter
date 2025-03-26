@@ -9,9 +9,16 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      A [**text-to-Morse code
+      converter**](https://websurftools.com/tools/morse-code-generator/) is a
+      tool that translates regular text into Morse code, a system of dots (•)
+      and dashes (—) used for communication. Each letter, number, and special
+      character has a unique Morse code representation.
+
+
+      A **Morse-to-text converter** performs the reverse operation, decoding
+      Morse code back into readable text. It interprets sequences of dots and
+      dashes separated by spaces for letters and slashes (/) for words. 
     actions:
       - label: Get started
         altText: ''
