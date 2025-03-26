@@ -216,7 +216,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: ''
     text: ''
     media:
       title: Title of the video
